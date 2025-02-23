@@ -1,0 +1,14 @@
+C:\Users\monbo\source\repos\Calc\bin\Debug\net8.0\Calc.exe
+C:\Users\monbo\source\repos\Calc\bin\Debug\net8.0\Calc.deps.json
+C:\Users\monbo\source\repos\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+C:\Users\monbo\source\repos\Calc\bin\Debug\net8.0\Calc.dll
+C:\Users\monbo\source\repos\Calc\bin\Debug\net8.0\Calc.pdb
+C:\Users\monbo\source\repos\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monbo\source\repos\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+C:\Users\monbo\source\repos\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+C:\Users\monbo\source\repos\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\monbo\source\repos\Calc\obj\Debug\net8.0\Calc.dll
+C:\Users\monbo\source\repos\Calc\obj\Debug\net8.0\refint\Calc.dll
+C:\Users\monbo\source\repos\Calc\obj\Debug\net8.0\Calc.pdb
+C:\Users\monbo\source\repos\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+C:\Users\monbo\source\repos\Calc\obj\Debug\net8.0\ref\Calc.dll
