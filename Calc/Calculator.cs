@@ -1,7 +1,4 @@
 ﻿namespace Calc;
-/// <summary>
-/// Класс для математических операций
-/// </summary>
 public class Calculator
     {
         public int Additional(int a, int b)
